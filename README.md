@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hayati</h1>
 <h3 align="center">Android Developer</h3>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBmcjc2bG1hcHd1cWE5dWd6ZGluMjY0Y2Rna2V2eG5oNXVvZmV4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuEyvLPXMLhT2/giphy.gif" align="right" width="400">
-
 - 🏠 I'm from Manisa,Turkey.
 - :school: I graduated from Gazi University - Computer Engineering.                                                                               
 - 🌱 I’m currently learning Kotlin & Android App Development.
-
-
 
 ## My Skill Set  
 <div align="center">  
@@ -18,7 +14,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
 </div>  
-
 <br/><br/>
 
 ## Social Media
@@ -32,3 +27,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<div align="center">
+<img src="https://media.giphy.com/media/Kb4IU8uT1khuUkx8m3/giphy.gif?cid=790b7611niqnnzl89sltyy1qljpgwyewl79p8vs9dxk577so&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" >
+</div>
