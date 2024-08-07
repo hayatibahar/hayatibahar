@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hayati</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🏠 I'm from Manisa,Turkey.
 - :school: I graduated from Gazi University - Computer Engineering.                                                                               
