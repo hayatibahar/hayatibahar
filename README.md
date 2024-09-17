@@ -3,7 +3,7 @@
 
 - 🏠 I'm from Manisa,Turkey.
 - :school: I graduated from Gazi University - Computer Engineering.                                                                               
-- 🌱 I’m currently learning Kotlin & Android App Development.
+- 🌱 I’m currently learning Unity.
 
 ## My Skill Set  
 <div align="center">  
